@@ -1,0 +1,3 @@
+[submodule "button-component"]
+	path = button-component
+	url = git@github.com:mcaligares/button-component.git
